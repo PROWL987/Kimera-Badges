@@ -238,7 +238,7 @@
       "groupId": "gv",
       "id": "v-sdr",
       "imageURL": "https://raw.githubusercontent.com/PROWL987/Kimera-Badges/main/Image/SDRLogo.png",
-      "isEnabled": false,
+      "isEnabled": true,
       "name": "SDR",
       "pattern": "(?i)^(?!.*\\b(?:hdr|hdr10|hdr10\\+|dv|dovi|dolby[\\s._-]?vision)\\b)(?=.*\\bsdr\\b)",
       "tagColor": "#00000000",
