@@ -216,7 +216,7 @@
       "name": "HDR",
       "pattern": "(?i)^(?=.*\\bhdr\\b)(?!.*\\bhdr[\\s._-]?10)",
       "tagColor": "#000000",
-      "tagStyle": "filled",
+      "tagStyle": "filled and bordered",
       "textColor": "#000000",
       "type": "filter"
     },
