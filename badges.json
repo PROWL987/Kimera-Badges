@@ -216,12 +216,12 @@
       "name": "HDR",
       "pattern": "(?i)^(?=.*\\bhdr\\b)(?!.*\\bhdr[\\s._-]?10)",
       "tagColor": "#00000000",
-      "tagStyle": "filled",
+      "tagStyle": "filled and bordered",
       "textColor": "#00000000",
       "type": "filter"
     },
     {
-      "borderColor": "#00000000",
+      "borderColor": "#FFFFFF",
       "groupId": "gv",
       "id": "a-dv",
       "imageURL": "https://raw.githubusercontent.com/PROWL987/Kimera-Badges/main/Image/dolby_visionLogo.png",
