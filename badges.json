@@ -208,7 +208,7 @@
       "type": "filter"
     },
     {
-      "borderColor": "#FFFFFF",
+      "borderColor": "#00000000",
       "groupId": "gv",
       "id": "v-hdr",
       "imageURL": "https://raw.githubusercontent.com/PROWL987/Kimera-Badges/main/Image/HdrLogo.png",
