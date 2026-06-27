@@ -301,6 +301,19 @@
     {
       "borderColor": "#00000000",
       "groupId": "gq",
+      "id": "q-wmux",
+      "imageURL": "https://raw.githubusercontent.com/PROWL987/Kimera-Badges/main/Image/WEBMuxLogo.png",
+      "isEnabled": true,
+      "name": "WEBMux",
+      "pattern": "(?i)\\bweb[-_. ]?mux\\b",
+      "tagColor": "#00000000",
+      "tagStyle": "filled and bordered",
+      "textColor": "#00000000",
+      "type": "filter"
+    },
+    {
+      "borderColor": "#00000000",
+      "groupId": "gq",
       "id": "q-w",
       "imageURL": "https://raw.githubusercontent.com/PROWL987/Kimera-Badges/main/Image/WEBDLLogo.png",
       "isEnabled": true,
