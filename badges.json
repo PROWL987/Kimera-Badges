@@ -208,16 +208,16 @@
       "type": "filter"
     },
     {
-      "borderColor": "#FFFFFFFF",
+      "borderColor": "#FFFFFF",
       "groupId": "gv",
       "id": "v-hdr",
       "imageURL": "https://raw.githubusercontent.com/PROWL987/Kimera-Badges/main/Image/HdrLogo.png",
       "isEnabled": true,
       "name": "HDR",
       "pattern": "(?i)^(?=.*\\bhdr\\b)(?!.*\\bhdr[\\s._-]?10)",
-      "tagColor": "#00000000",
-      "tagStyle": "filled and bordered",
-      "textColor": "#00000000",
+      "tagColor": "#000000",
+      "tagStyle": "filled",
+      "textColor": "#000000",
       "type": "filter"
     },
     {
