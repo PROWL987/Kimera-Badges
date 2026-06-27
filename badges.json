@@ -305,7 +305,7 @@
       "imageURL": "https://raw.githubusercontent.com/PROWL987/Kimera-Badges/main/Image/WEBDLLogo.png",
       "isEnabled": true,
       "name": "WEB-DL",
-      "pattern": "(?i)^(?!.*\\b(?:nflx|netflix|amzn|amazon|prime[\\s._-]?video|atvp|apple[\\s._-]?tv\\+?|appletv|dsnp|dsny|disney\\+?|disney[\\s._-]?plus|hmax|hbomax|hbo[\\s._-]?max|max|hulu|pcok|peacock|pmtp|pamp|paramount\\+?|paramount[\\s._-]?plus|crunchyroll|crunch|sky)\\b)\\bweb[-_. ]?dl\\b",
+      "pattern": "(?i)(?!.*\\b(?:nflx|netflix|amzn|amazon|prime[\\s._-]?video|atvp|apple[\\s._-]?tv\\+?|appletv|dsnp|dsny|disney\\+?|disney[\\s._-]?plus|hmax|hbomax|hbo[\\s._-]?max|max|hulu|pcok|peacock|pmtp|pamp|paramount\\+?|paramount[\\s._-]?plus|crunchyroll|crunch|sky)\\b)\\bweb[-_. ]?dl\\b",
       "tagColor": "#00000000",
       "tagStyle": "filled and bordered",
       "textColor": "#00000000",
