@@ -215,9 +215,9 @@
       "isEnabled": true,
       "name": "HDR",
       "pattern": "(?i)^(?=.*\\bhdr\\b)(?!.*\\bhdr[\\s._-]?10)",
-      "tagColor": "#000000",
-      "tagStyle": "filled and bordered",
-      "textColor": "#000000",
+      "tagColor": "#00000000",
+      "tagStyle": "filled",
+      "textColor": "#00000000",
       "type": "filter"
     },
     {
